@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋
+# My name is Syed Uddin
 
-<!--
-**Junaidhtml/junaidhtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a little bit about me:
+
+- 🔭 I’m currently working on my Associates degree.
+- 🌱 I’m currently learning Web Page Development 
+- 👯 I’m looking to collaborate with my classmates so I can learn more about web page development 
+- 🤔 I’m looking for help with github
+- 💬 Ask me about Automotive
+- 📫 How to reach me: [sudd3941@stu.raritanval.edu](url)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I know everything about Hummer EVs
+
+
+ ![hummer pic for github](https://github.com/user-attachments/assets/4665d32b-07a6-42cd-a14d-42c750963177)
+
+
+
